@@ -118,7 +118,7 @@ include('user.php');
     </div>
     <!-- footer -->
     <div class="footer">
-        <p>&copy; <?php echo date('Y'); ?> All Rights Reserved | Design by Computer Science Student.</p>
+        <p>&copy; <?php echo date('Y'); ?> All Rights Reserved | Design by Computer Science Student Federal Polytechnic Offa.</p>
     </div>
     <!-- footer -->
 </div>
